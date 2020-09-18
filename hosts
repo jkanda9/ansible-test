@@ -1,0 +1,12 @@
+[development]
+lubuntu
+centos
+
+[administrative]
+ubuntu
+
+[management]
+lubdebian
+
+[awx]
+ansible-tower

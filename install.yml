@@ -1,0 +1,8 @@
+---
+- name: AWX
+  hosts: 
+    - ansible-tower
+
+  roles:
+    # - docker
+    - awx

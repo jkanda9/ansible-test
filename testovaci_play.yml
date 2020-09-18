@@ -1,0 +1,6 @@
+---
+- name: AWX
+
+  roles:
+    # - docker
+    - awx-test
